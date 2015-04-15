@@ -6,3 +6,5 @@ It Cleans:
 
 "bin" directories
 "obj" directories
+
+For GEM version of this tool, go to : https://github.com/fortinmike/binclean
