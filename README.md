@@ -1,5 +1,7 @@
 # VSBinCleaner
 
+**Deprecated**
+
 A recursive delete of temporary Visual Studio output files, binclean performs.
 
 It Cleans:
